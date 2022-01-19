@@ -9,4 +9,4 @@ In the Notebook here, we will see the basic process to utilizing the Pickle libr
 
 This is just a very basic introduction, but I suspect there will be a follow up to this very soon with Machine Learning on the horizon! 
 
-For more detail and information on the Christmas Pickle, please take a look at the blog post that can be found [here](https://medium.com/@smashley-eakland). 
+For more detail and information on the Christmas Pickle, please take a look at the blog post that can be found [here](https://medium.com/@smashley_eakland). 
